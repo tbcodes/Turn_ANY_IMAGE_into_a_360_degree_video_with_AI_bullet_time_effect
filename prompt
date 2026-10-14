@@ -1,0 +1,411 @@
+***********************************************************************
+ Turn ANY IMAGE into a 360-degree video with AI  -  Bullet Time Effect
+ CREATED BY: TRUZZ BLOGG (RICARDO)
+ YOUTUBE LINK: https://youtu.be/3p7vKnc8gew
+***********************************************************************
+
+
+PROMPT:
+
+
+# UNIVERSAL MASTER PROMPT — TRUE 360° BULLET TIME CAMERA ORBIT
+
+## 1. CORE OBJECTIVE
+
+Use the uploaded reference image as the absolute visual source of truth and the exact starting frame of the video.
+
+Create a photorealistic, continuous, single-take video featuring a complete 360-degree physical camera orbit around the primary subject.
+
+**VIDEO SPECIFICATIONS**
+- Duration: exactly 10 seconds.
+- Aspect ratio: 16:9 widescreen.
+- Camera movement: one complete 360-degree horizontal orbit.
+- Average angular velocity: 36 degrees per second.
+- Visual effect: cinematic bullet-time perspective combined with absolute time freeze.
+- Subject behavior: completely frozen, except for explicitly permitted eye movement when a visible human or animal subject has eyes.
+- Environment: spatially stable, physically consistent, and completely frozen.
+- Style: photorealistic live-action cinematography.
+- Continuity: one uninterrupted shot, with no cuts, transitions, or hidden camera resets.
+
+The result must look like a real camera physically traveling through three-dimensional space around a frozen moment in time.
+
+This is NOT a rotating image, NOT a spinning subject, NOT a rotating background, NOT a simple camera pan, and NOT a digital zoom pretending to be a 360-degree orbit.
+
+The camera must physically change its viewpoint relative to the subject and environment.
+
+## 2. UNIVERSAL REFERENCE LOCK
+
+Automatically analyze the uploaded image and identify its primary subject, secondary subjects, foreground elements, background elements, environment, lighting, camera angle, perspective, materials, colors, and composition.
+
+Adapt the orbit to the actual content of the reference image without requiring additional instructions from the user.
+
+Preserve the original identity and appearance of every visible subject.
+
+For people, preserve facial identity, anatomy, body proportions, hairstyle, clothing, accessories, pose, hand positions, facial expression, and all recognizable physical characteristics.
+
+For animals, preserve species, anatomy, fur or feather patterns, proportions, posture, and recognizable features.
+
+For objects, preserve shape, dimensions, materials, surface details, colors, branding, labels, and structural characteristics.
+
+For vehicles, preserve body geometry, wheels, windows, lights, paintwork, and all visible components.
+
+For landscapes, architecture, interiors, and other environments, preserve the existing spatial arrangement, structural geometry, materials, objects, and environmental details.
+
+Do not impose human-specific movement rules on nonhuman subjects.
+
+Do not add new characters, objects, furniture, accessories, architectural features, or environmental elements.
+
+Do not remove existing elements.
+
+Do not reinterpret, redesign, beautify, stylize, or replace any part of the original scene.
+
+**REFERENCE IMAGE FIDELITY HAS THE HIGHEST PRIORITY.**
+
+The original image defines the subject's identity, initial pose, visual style, environment, and starting camera position.
+
+## 3. ABSOLUTE TIME FREEZE
+
+Freeze the entire scene at the exact instant represented by the reference image.
+
+Every subject and environmental element must remain perfectly stationary in world space throughout the entire camera orbit.
+
+Nothing moves independently of the camera.
+
+For human subjects:
+- No head movement.
+- No neck movement.
+- No shoulder movement.
+- No arm, hand, or finger movement.
+- No torso movement.
+- No leg or foot movement.
+- No posture adjustments.
+- No hair movement.
+- No clothing or fabric movement.
+- No breathing or chest movement.
+- No blinking.
+- No changes in facial expression.
+- No lip movement or speaking.
+- No spontaneous muscle movement.
+
+For animals:
+- No head movement.
+- No body movement.
+- No tail movement.
+- No ear movement.
+- No wing movement.
+- No breathing animation.
+- No blinking.
+- No changes in posture.
+
+For inanimate objects:
+- No rotation.
+- No deformation.
+- No independent movement.
+- No changes in position, shape, or orientation.
+
+For the environment:
+- No moving furniture.
+- No moving vegetation.
+- No moving curtains.
+- No moving particles.
+- No moving shadows.
+- No changing reflections caused by simulated object movement.
+- No animated background elements.
+
+Every visible element must behave like a perfectly frozen three-dimensional scene.
+
+The only intended movement is the physical movement of the camera.
+
+### OPTIONAL EYE-TRACKING RULE
+
+Apply this rule ONLY when the primary subject has visible eyes and the reference image makes eye movement anatomically and visually plausible.
+
+The subject's head, face, and body remain completely frozen.
+
+Only the eyeballs and pupils may move subtly to follow the camera when it is within a physically plausible field of view.
+
+Eye movement must be slow, smooth, minimal, and anatomically natural.
+
+As the camera moves outside the subject's forward field of view, minimize eye movement rather than forcing the eyes to rotate unnaturally.
+
+As the camera returns to the subject's visible field of view, the eyes may gradually reconnect with the camera.
+
+Never rotate the head to follow the camera.
+
+Never force an animal or human to maintain impossible eye contact from behind.
+
+Never introduce blinking.
+
+If eye movement is unsuitable for the reference image, keep the subject entirely motionless.
+
+## 4. TRUE PHYSICAL 360-DEGREE CAMERA ORBIT
+
+Begin at the exact camera position, angle, height, and perspective established by the reference image.
+
+The camera must execute a complete 360-degree horizontal orbit around the primary subject.
+
+Move physically through three-dimensional space while continuously aiming toward the subject's approximate center.
+
+Use a smooth, continuous circular trajectory.
+
+Maintain a consistent radius from the subject's approximate center whenever the scene geometry permits.
+
+Maintain a consistent camera height unless the reference image or physical environment makes a perfectly level orbit impossible.
+
+Keep the lens direction oriented toward the primary subject rather than allowing the subject to drift out of frame.
+
+Use genuine spatial parallax between foreground, subject, and background.
+
+Objects closer to the camera must exhibit greater apparent positional displacement than objects farther away.
+
+The changing perspective must result from actual camera translation, not artificial rotation of the image.
+
+### REQUIRED ORBIT TRAJECTORY
+
+0° — Original frontal or initial viewpoint.
+
+45° — Front-side three-quarter view.
+
+90° — Side profile.
+
+135° — Rear-side three-quarter view.
+
+180° — Direct rear viewpoint.
+
+225° — Opposite rear-side three-quarter view.
+
+270° — Opposite side profile.
+
+315° — Opposite front-side three-quarter view.
+
+360° — Return to the original viewpoint.
+
+These angles describe the camera's orbital progression relative to the starting position.
+
+For references without a clearly defined front, interpret 0° as the original camera viewpoint and establish the orbit direction from that starting perspective.
+
+The camera must travel continuously through all intermediate angles.
+
+Never jump between viewpoints.
+
+Never simulate the orbit by spinning the subject.
+
+Never rotate the entire environment around the subject.
+
+Never use a stationary camera with a rotating panoramic projection.
+
+Never substitute a digital zoom, crop animation, or simple horizontal pan for the physical orbit.
+
+## 5. CAMERA MOVEMENT TIMELINE
+
+### 0.0–2.5 SECONDS | 0°–90°
+
+Start precisely from the reference image's original viewpoint.
+
+The camera accelerates smoothly into the leftward orbital movement and travels toward the first side profile.
+
+Reveal the changing three-dimensional structure of the subject.
+
+Maintain strong, physically plausible parallax between foreground elements, the primary subject, and the background.
+
+All scene elements remain frozen in their original world-space positions.
+
+Do not alter the subject's pose to accommodate the changing camera angle.
+
+### 2.5–5.0 SECONDS | 90°–180°
+
+Continue the same uninterrupted orbit around the subject's left side and toward the rear viewpoint.
+
+The camera must reveal genuine side and rear perspectives.
+
+Preserve the subject's original dimensions, anatomy, silhouette, materials, and structural proportions.
+
+For surfaces that were hidden in the reference image, reconstruct only the minimum unseen geometry necessary to support a coherent three-dimensional viewpoint.
+
+Use the visible reference details to infer plausible hidden surfaces.
+
+Maintain consistency in clothing construction, hair length, body proportions, object geometry, materials, and surface patterns.
+
+Do not invent conspicuous new details.
+
+Do not mirror the front of the subject onto its back.
+
+Do not flatten the subject into a two-dimensional cutout.
+
+Do not allow the subject's geometry to morph as the camera passes behind it.
+
+### 5.0–7.5 SECONDS | 180°–270°
+
+Continue smoothly from the rear viewpoint around the opposite side.
+
+Maintain the same orbital radius, camera height, movement direction, and approximate framing.
+
+The environment remains fixed in its original spatial arrangement.
+
+Furniture, architecture, objects, and background details must not rotate, slide, rearrange themselves, or follow the camera.
+
+Maintain physically correct depth relationships and continuous parallax.
+
+Ensure that the subject remains structurally coherent when viewed from previously unseen angles.
+
+Avoid geometry discontinuities, duplicated objects, disappearing accessories, floating elements, and changes in scale.
+
+### 7.5–10.0 SECONDS | 270°–360°
+
+Complete the final quarter of the orbit and return to the original camera position.
+
+The camera continues moving smoothly around the subject's opposite side and gradually approaches the initial viewpoint.
+
+Slightly reduce the camera's angular velocity during the final second to achieve a controlled ending.
+
+Return to the original viewing angle, camera height, distance, and perspective as closely as possible.
+
+At the end, the composition should closely match the opening frame.
+
+The subject must remain frozen in exactly the same pose and world-space position.
+
+If eye tracking is enabled, the eyes may return naturally toward the original camera position.
+
+Finish without a cut, transition, fade, or artificial camera reset.
+
+## 6. THREE-DIMENSIONAL SCENE CONSISTENCY
+
+Treat the entire reference image as a coherent three-dimensional scene rather than a flat photograph.
+
+Preserve consistent spatial relationships between:
+- The primary subject.
+- Secondary subjects.
+- Foreground objects.
+- Midground objects.
+- Background objects.
+- The floor or supporting surface.
+- Walls, architecture, and surrounding structures.
+
+As the camera moves, visible occlusions must change naturally.
+
+Elements that were previously hidden may become visible when the camera passes around the subject.
+
+Elements must disappear behind other objects only when justified by physical geometry.
+
+Maintain coherent depth, scale, perspective, and object positioning throughout the orbit.
+
+The camera must not pass through solid objects or intersect the primary subject.
+
+Avoid impossible viewpoints, broken perspective, inconsistent object depth, and sudden changes in the apparent size of scene elements.
+
+Where a complete 3D reconstruction is uncertain, prioritize continuity, anatomical integrity, and fidelity to the original reference over speculative detail.
+
+## 7. LIGHTING, MATERIALS, AND IMAGE QUALITY
+
+Preserve the original lighting conditions throughout the entire shot.
+
+Maintain consistent:
+- Light direction.
+- Light intensity.
+- Color temperature.
+- Exposure.
+- White balance.
+- Ambient illumination.
+- Shadow softness.
+- Material appearance.
+- Surface texture.
+
+Do not introduce dramatic cinematic relighting.
+
+Do not change daytime into nighttime.
+
+Do not introduce artificial rim lights, colored lights, lens flares, or additional light sources.
+
+Allow only physically plausible changes in visible shading, surface reflections, and occlusion resulting from the camera's changing viewpoint.
+
+Preserve realistic skin texture, natural hair detail, fabric texture, surface imperfections, and material-specific reflections whenever applicable.
+
+Use photorealistic live-action image quality.
+
+Maintain natural perspective with a moderate wide-angle lens, approximately 24–35 mm full-frame equivalent when appropriate for the reference scene.
+
+Avoid excessive wide-angle distortion, fisheye effects, artificial depth of field, and exaggerated perspective.
+
+The final result must look like a real camera recording a frozen physical scene.
+
+## 8. UNIVERSAL NEGATIVE CONSTRAINTS
+
+STRICTLY FORBIDDEN:
+
+- Subject rotation.
+- Subject translation.
+- Subject deformation.
+- Subject morphing.
+- Identity changes.
+- Facial identity drift.
+- Pose changes.
+- Anatomical distortions.
+- Unnatural limb positions.
+- Clothing redesign.
+- Material changes.
+- Object duplication.
+- Object disappearance.
+- Background rotation.
+- Background movement.
+- Environment rearrangement.
+- Artificial image spinning.
+- Static-camera fake orbit.
+- Digital zoom replacing camera translation.
+- Jump cuts.
+- Hidden cuts.
+- Transition effects.
+- Camera teleportation.
+- Sudden perspective jumps.
+- Inconsistent parallax.
+- Unstable geometry.
+- Flickering textures.
+- Changing lighting.
+- Exposure fluctuations.
+- Color shifts.
+- Unwanted blinking.
+- Unwanted facial animation.
+- Unwanted breathing animation.
+- Unwanted motion blur.
+- Ghosting.
+- Double images.
+- Frame blending artifacts.
+- Unnatural depth reconstruction.
+- CGI appearance.
+- Cartoon rendering.
+- Unrealistic reflections.
+- Newly invented foreground objects.
+- Unrequested text, subtitles, logos, or watermarks.
+
+## 9. FINAL OUTPUT REQUIREMENTS
+
+Generate one continuous, photorealistic 10-second video in 16:9 widescreen format.
+
+The video must contain one complete physical 360-degree camera orbit around the frozen reference scene.
+
+The camera performs the orbit. The subject and environment do not rotate.
+
+Maintain the original subject's identity, appearance, pose, and spatial position.
+
+Preserve the environment and lighting.
+
+Create convincing three-dimensional parallax and coherent perspective changes.
+
+Reconstruct unseen surfaces conservatively and consistently.
+
+End at the original camera viewpoint, matching the initial composition as closely as possible.
+
+**FINAL PRIORITY ORDER:**
+
+1. Preserve the identity and geometry of the original subject.
+2. Keep the subject and environment frozen in world space.
+3. Produce a genuine, continuous 360-degree physical camera orbit.
+4. Maintain coherent three-dimensional perspective and parallax.
+5. Preserve the original lighting, materials, colors, and composition.
+6. Return to the original camera viewpoint at the end.
+
+The final result must convincingly reproduce the experience of a real camera traveling around a perfectly frozen moment in time.
+
+No cuts. No subject rotation. No background rotation. One continuous 360-degree orbit.
+
+
+
